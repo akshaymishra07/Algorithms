@@ -1,3 +1,10 @@
+/*
+ *  
+ *   
+ *   Problems related to binary search will be added soon!!
+ * 
+ * */
+
 package searchingAlgorithms;
 
 public class BinarySearch {
